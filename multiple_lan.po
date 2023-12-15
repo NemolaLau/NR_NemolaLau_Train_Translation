@@ -3620,6 +3620,541 @@ msgid "JNR 381 Series"
 msgstr "国鉄381系"
 
 # --------------------
+# Tianjin Rail Transit Line 9 Train
+# ID: 2893488267
+# Language: zho
+
+msgctxt "Tianjin Rail Transit Line 9 Train_name"
+msgid "Tianjin Rail Transit Line 9 Train"
+msgstr "天津轨道交通9号线列车"
+
+# --------------------
+# Tianjin Rail Transit Line 2 Train
+# ID: 2893489014
+# Language: zho
+
+msgctxt "Tianjin_Rail_Transit_Line_2_Train_name"
+msgid "Tianjin Rail Transit Line 2 Train"
+msgstr "天津轨道交通2号线列车"
+
+# --------------------
+# Tianjin Development Zone Tram Line 1
+# ID: 2896178785
+# Language: zho
+
+msgctxt "Tianjin_Development_Zone_Tram_Line_1_Tram"
+msgid "Tianjin Development Zone Tram Line 1 Tram"
+msgstr "天津开发区导轨电车1号线电车"
+
+# --------------------
+# Tianjin Rail Transit Line 3 Train
+# ID: 2897265768
+# Language: zho
+
+msgctxt "Tianjin_Rail_Transit_Line_3_Train_name"
+msgid "Tianjin Rail Transit Line 3 Train"
+msgstr "天津轨道交通3号线列车"
+
+# --------------------
+# Tianjin Rail Transit Line 1 Train
+# ID: 2904643472
+# Language: zho
+
+msgctxt "Tianjin_Rail_Transit_Line_1_Train_name"
+msgid "Tianjin Rail Transit Line 1 Train"
+msgstr "天津轨道交通1号线列车"
+
+# --------------------
+# Tianjin Rail Transit Line 6 Train
+# ID: 2907068381
+# Language: zho
+
+msgctxt "Tianjin_Rail_Transit_Line_6_Train_name"
+msgid "Tianjin Rail Transit Line 6 Train"
+msgstr "天津轨道交通6号线列车"
+
+# --------------------
+# Tianjin Rail Transit Line 5 Train
+# ID: 2910013596
+# Language: zho
+
+msgctxt "Tianjin_Rail_Transit_Line_5_Train"
+msgid "Tianjin Rail Transit Line 5 Train"
+msgstr "天津轨道交通5号线列车"
+
+# --------------------
+# Tianjin Rail Transit Line 4 Train
+# ID: 2912353837
+# Language: zho
+
+msgctxt "Tianjin_Rail_Transit_Line_4_Train"
+msgid "Tianjin Rail Transit Line 4 Train"
+msgstr "天津轨道交通4号线列车"
+
+# --------------------
+# NemolaLau's Utility Trains
+# ID: 2994369918
+# Language: eng
+
+msgctxt "Utility Trains (Cheat)"
+msgid "Utility Trains (Cheat)"
+msgstr "輔助列車(作弊類)"
+
+msgctxt "nla_cheat_train_01_name"
+msgid "NLA Cheat Train"
+msgstr "NLA作弊列車"
+
+msgctxt "nla_cheat_train_02_mu_name"
+msgid "NLA Cheat Train"
+msgstr "NLA作弊列車"
+
+msgctxt "nla_cheat_train_02_c_1"
+msgid "NLA Cheat Train"
+msgstr "NLA作弊列車"
+
+msgctxt "nla_cheat_train_02_name"
+msgid "NLA Cheat Capacity Upgrad"
+msgstr "NLA作弊載客量升級"
+
+msgctxt "nla_cheat_train_03_name"
+msgid "NLA Space Filler"
+msgstr "NLA空間填充"
+
+msgctxt "Utility Trains (Extra Power)"
+msgid "Utility Trains (Extra Power)"
+msgstr "輔助列車(額外動力)"
+
+msgctxt "nla_extra_power_100_name"
+msgid "NLA Extra Power 100"
+msgstr "NLA額外動力100"
+
+msgctxt "nla_extra_power_150_name"
+msgid "NLA Extra Power 150"
+msgstr "NLA額外動力150"
+
+msgctxt "nla_extra_power_300_name"
+msgid "NLA Extra Power 300"
+msgstr "NLA額外動力300"
+
+msgctxt "nla_extra_power_600_name"
+msgid "NLA Extra Power 600"
+msgstr "NLA額外動力600"
+
+msgctxt "nla_extra_power_760_name"
+msgid "NLA Extra Power 760"
+msgstr "NLA額外動力760"
+
+msgctxt "nla_extra_power_800_name"
+msgid "NLA Extra Power 800"
+msgstr "NLA額外動力800"
+
+msgctxt "nla_extra_power_1200_name"
+msgid "NLA Extra Power 1200"
+msgstr "NLA額外動力1200"
+
+msgctxt "nla_extra_power_1500_name"
+msgid "NLA Extra Power 1500"
+msgstr "NLA額外動力1500"
+
+msgctxt "nla_extra_power_3000_name"
+msgid "NLA Extra Power 3000"
+msgstr "NLA額外動力3000"
+
+msgctxt "nla_extra_power_6000_name"
+msgid "NLA Extra Power 6000"
+msgstr "NLA額外動力6000"
+
+msgctxt "nla_extra_power_9000_name"
+msgid "NLA Extra Power 9000"
+msgstr "NLA額外動力9000"
+
+msgctxt "Utility Trains (Speed Limiter)"
+msgid "Utility Trains (Speed Limiter)"
+msgstr "輔助列車(限速器)"
+
+msgctxt "nla_speed_limiter_80_name"
+msgid "NLA Speed Limiter 80"
+msgstr "NLA限速器80"
+
+msgctxt "nla_speed_limiter_90_name"
+msgid "NLA Speed Limiter 90"
+msgstr "NLA限速器90"
+
+msgctxt "nla_speed_limiter_96_name"
+msgid "NLA Speed Limiter 96"
+msgstr "NLA限速器96"
+
+msgctxt "nla_speed_limiter_100_name"
+msgid "NLA Speed Limiter 100"
+msgstr "NLA限速器100"
+
+msgctxt "nla_speed_limiter_110_name"
+msgid "NLA Speed Limiter 110"
+msgstr "NLA限速器110"
+
+msgctxt "nla_speed_limiter_120_name"
+msgid "NLA Speed Limiter 120"
+msgstr "NLA限速器120"
+
+msgctxt "nla_speed_limiter_130_name"
+msgid "NLA Speed Limiter 130"
+msgstr "NLA限速器130"
+
+msgctxt "nla_speed_limiter_140_name"
+msgid "NLA Speed Limiter 140"
+msgstr "NLA限速器140"
+
+msgctxt "nla_speed_limiter_160_name"
+msgid "NLA Speed Limiter 160"
+msgstr "NLA限速器160"
+
+msgctxt "nla_speed_limiter_180_name"
+msgid "NLA Speed Limiter 180"
+msgstr "NLA限速器180"
+
+msgctxt "nla_speed_limiter_200_name"
+msgid "NLA Speed Limiter 200"
+msgstr "NLA限速器200"
+
+msgctxt "nla_speed_limiter_220_name"
+msgid "NLA Speed Limiter 220"
+msgstr "NLA限速器220"
+
+msgctxt "nla_speed_limiter_260_name"
+msgid "NLA Speed Limiter 260"
+msgstr "NLA限速器260"
+
+msgctxt "nla_speed_limiter_310_name"
+msgid "NLA Speed Limiter 310"
+msgstr "NLA限速器310"
+
+msgctxt "nla_speed_limiter_330_name"
+msgid "NLA Speed Limiter 330"
+msgstr "NLA限速器330"
+
+msgctxt "nla_speed_limiter_360_name"
+msgid "NLA Speed Limiter 360"
+msgstr "NLA限速器360"
+
+msgctxt "nla_speed_limiter_400_name"
+msgid "NLA Speed Limiter 400"
+msgstr "NLA限速器400"
+
+# --------------------
+# Taiwan Railways Administration EMU3000 series
+# ID: 2896647097
+# Language: yue
+
+msgctxt "EMU3000_ED1_2_name"
+msgid "TRA EMU3000 ED1 ED2"
+msgstr "台鐵EMU3000型 ED1 ED2"
+
+msgctxt "EMU3000_EM1_6_name"
+msgid "TRA EMU3000 EM1 EM6"
+msgstr "台鐵EMU3000型 EM1 EM6"
+
+msgctxt "EMU3000_EP1_name"
+msgid "TRA EMU3000 EP1"
+msgstr "台鐵EMU3000型 EP1"
+
+msgctxt "EMU3000_EM2_name"
+msgid "TRA EMU3000 EM2"
+msgstr "台鐵EMU3000型 EM2"
+
+msgctxt "EMU3000_ET_name"
+msgid "TRA EMU3000 ET"
+msgstr "台鐵EMU3000型 ET"
+
+msgctxt "EMU3000_EM3_name"
+msgid "TRA EMU3000 EM3"
+msgstr "台鐵EMU3000型 EM3"
+
+msgctxt "EMU3000_EP2_name"
+msgid "TRA EMU3000 EP2"
+msgstr "台鐵EMU3000型 EP2"
+
+msgctxt "EMU3000_EM4_name"
+msgid "TRA EMU3000 EM4"
+msgstr "台鐵EMU3000型 EM4"
+
+msgctxt "EMU3000_EM5_name"
+msgid "TRA EMU3000 EM5"
+msgstr "台鐵EMU3000型 EM5"
+
+msgctxt "EMU3000_EP3_name"
+msgid "TRA EMU3000 EP3"
+msgstr "台鐵EMU3000型 EP3"
+
+msgctxt "EMU3000_SET_name"
+msgid "TRA EMU3000"
+msgstr "台鐵EMU3000型"
+
+# --------------------
+# JR Shikoku 5000 Series
+# ID: 2895723311
+# Language: jpn
+
+msgctxt "KM_JRS5000"
+msgid "JR Shikoku 5000 Series"
+msgstr "JR四国5000系「ﾏﾘﾝﾗｲﾅｰ」"
+
+# --------------------
+# JR West 223 Series
+# ID: 2895723733
+# Language: jpn
+
+msgctxt "KM_JRW223"
+msgid "JR West 223 Series"
+msgstr "JR西日本223系"
+
+# --------------------
+# JR 285 Series
+# ID: 2896094484
+# Language: jpn
+
+msgctxt "KM_JR285"
+msgid "JR 285 Series"
+msgstr "JR西日本285系"
+
+# --------------------
+# JNR 185 Series
+# ID: 2909107642
+# Language: jpn
+
+msgctxt "KM_JNR185"
+msgid "JNR 185 Series"
+msgstr "国鉄185系"
+
+# --------------------
+# JR East 215 Series
+# ID: 2918065368
+# Language: jpn
+
+msgctxt "KM_JRE215"
+msgid "JR East 215 Series"
+msgstr "JR東日本215系"
+
+# --------------------
+# JNR 201 Series
+# ID: 2919957187
+# Language: jpn
+
+msgctxt "KM_JNR201"
+msgid "JNR 201 Series"
+msgstr "国鉄201系"
+
+# --------------------
+# Sapporo City Tram Type A1200
+# ID: 2920080066
+# Language: jpn
+
+msgctxt "KM_SapporoA1200"
+msgid "Sapporo City Tram Type A1200"
+msgstr "札幌市交通局A1200形「ﾎﾟﾗﾘｽ」"
+
+# --------------------
+# Hiroden Type 5100
+# ID: 2921404753
+# Language: jpn
+
+msgctxt "KM_Hiroden5100"
+msgid "Hiroden Type 5100"
+msgstr "広島電鉄5100形"
+
+# --------------------
+# JR N700 Series Shinkansen
+# ID: 2925286259
+# Language: jpn
+
+msgctxt "KM_N700SKS"
+msgid "JR N700 Shinkansen"
+msgstr "新幹線N700系"
+
+# --------------------
+# JR West 681/683 Series
+# ID: 2941559900
+# Language: jpn
+
+msgctxt "KM_JRW681"
+msgid "JR 681 Series"
+msgstr "JR西日本681系"
+
+msgctxt "KM_JRW6830"
+msgid "JR 683-0 Series"
+msgstr "JR西日本683-0系"
+
+msgctxt "KM_JRW6834"
+msgid "JR 683-4000 Series"
+msgstr "JR西日本683-4000系"
+
+# --------------------
+# Sanyo 6000 Series
+# ID: 2945131641
+# Language: jpn
+
+msgctxt "S6000_name"
+msgid "Sanyo 6000 Series"
+msgstr "山陽電車6000系"
+
+# --------------------
+# JR N700-7000 Shinkansen
+# ID: 2947399480
+# Language: jpn
+
+msgctxt "KM_N700SKS7000"
+msgid "JR N700-7000 Shinkansen"
+msgstr "新幹線N700系7000番台"
+
+# --------------------
+# JNR Limited Express EMU
+# ID: 2960536193
+# Language: jpn
+
+msgctxt "KM_JNR_LEEMU"
+msgid "JNR Limited Express EMU"
+msgstr "国鉄特急型電車"
+
+msgctxt "KM_JNR_LEEMU_comp_Kodama58"
+msgid "Kodama(151/1958)"
+msgstr "こだま(151/1958年)"
+
+msgctxt "KM_JNR_LEEMU_comp_Tsubame60"
+msgid "Tsubame(151/1960)"
+msgstr "つばめ(151/1960年)"
+
+msgctxt "KM_JNR_LEEMU_comp_Toki62"
+msgid "Toki(161/1962)"
+msgstr "とき(161/1962年)"
+
+msgctxt "KM_JNR_LEEMU_comp_Toki66"
+msgid "Toki/Asama(181/1966)"
+msgstr "とき・あさま(181/1966年)"
+
+msgctxt "KM_JNR_LEEMU_comp_Shioji68"
+msgid "Shioji/Uzushio(181/1968)"
+msgstr "しおじ・うずしお(181/1968年)"
+
+msgctxt "KM_JNR_LEEMU_comp_Hibari65"
+msgid "Hibari(485/1965)"
+msgstr "ひばり(485/1965年)"
+
+msgctxt "KM_JNR_LEEMU_comp_Hibari73"
+msgid "Hibari(485/1973)"
+msgstr "ひばり(485/1973年)"
+
+msgctxt "KM_JNR_LEEMU_comp_Kamome76M"
+msgid "Kamome+Midori(485/1976)"
+msgstr "かもめ・みどり(485/1976年)"
+
+msgctxt "KM_JNR_LEEMU_comp_Hakucho90"
+msgid "Hakucho/Raicho(485/1990)"
+msgstr "白鳥/雷鳥(485/1990年)"
+
+msgctxt "KM_JNR_LEEMU_comp_VAizu93"
+msgid "Viva Aizu(485/1993)"
+msgstr "あいづ(485/1993年)"
+
+msgctxt "KM_JNR_LEEMU_comp_SRaicho95"
+msgid "Super Raicho(485/1995)"
+msgstr "スーパー雷鳥(485/1995年)"
+
+msgctxt "KM_JNR_LEEMU_comp_Kagayaki96"
+msgid "Kagayaki/Kirameki(485/1996)"
+msgstr "かがやき・きらめき(485/1996年)"
+
+msgctxt "KM_JNR_LEEMU_comp_Kamoshika05"
+msgid "Kamoshika(485/2005)"
+msgstr "かもしか(485/2005年)"
+
+msgctxt "KM_JNR_LEEMU_comp_Hakusan72"
+msgid "Hakusan(489/1972)"
+msgstr "白山(489/1972年)"
+
+msgctxt "KM_JNR_LEEMU_comp_Asama(489/1990)"
+msgid "KM_JNR_LEEMU_comp_Asama(489/1990)"
+msgstr "あさま(489/1990年)"
+
+msgctxt "KM_JNR_LEEMU_comp_Asama90"
+msgid "Asama(489/1990)"
+msgstr "あさま(489/1990年)"
+
+msgctxt "KM_JNR_LEEMU_comp_Hakusan90"
+msgid "Hakusan(489/1990)"
+msgstr "白山(489/1990年)"
+
+# --------------------
+# JR Central N700S Shinkansen
+# ID: 3002786337
+# Language: jpn
+
+msgctxt "JR-C_N700S_name"
+msgid "JR-C N700S"
+msgstr "新幹線N700S系0番台東海"
+
+# --------------------
+# Osaka Municipal Subway 80 Series
+# ID: 3067817684
+# Language: jpn
+
+msgctxt "oms80s"
+msgid "Osaka Municipal Subway 80 Series"
+msgstr "大阪市交通局80系"
+
+# --------------------
+# Osaka Monorail 2000 Series
+# ID: 3067881204
+# Language: jpn
+
+msgctxt "om2000"
+msgid "Osaka Monorail 2000 Series"
+msgstr "大阪モノレール2000系"
+
+# --------------------
+# Hankyu 1300 Series
+# ID: 3092627314
+# Language: jpn
+
+msgctxt "Hankyu_1300_name"
+msgid "Hankyu 1300 2nd Gen"
+msgstr "阪急1300系(2代)"
+
+# --------------------
+# JRWest221
+# ID: 2447543361
+# Language: jpn
+
+msgctxt "JRWest221"
+msgid "JRWest221"
+msgstr "JR西日本221系"
+
+# --------------------
+# JRCentral313
+# ID: 2448602141
+# Language: jpn
+
+msgctxt "JRCent313"
+msgid "JRCent313"
+msgstr "JR東海313系"
+
+# --------------------
+# JRWest287
+# ID: 2459763666
+# Language: jpn  
+
+msgctxt "JRWest287"
+msgid "JRWest287"
+msgstr "JR西日本287系"
+
+# --------------------
+# JNR113
+# ID: 2464987764
+# Language: jpn
+
+msgctxt "JNR113"
+msgid "JNR113"
+msgstr "国鉄113系"
+
+# --------------------
 # 
 # ID: 
 # Language: 
